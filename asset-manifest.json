@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ayindesegun.github.io/quiz-app/static/css/main.eb2c7530.chunk.css",
+    "main.js": "/ayindesegun.github.io/quiz-app/static/js/main.79c509df.chunk.js",
+    "main.js.map": "/ayindesegun.github.io/quiz-app/static/js/main.79c509df.chunk.js.map",
+    "runtime-main.js": "/ayindesegun.github.io/quiz-app/static/js/runtime-main.20044e02.js",
+    "runtime-main.js.map": "/ayindesegun.github.io/quiz-app/static/js/runtime-main.20044e02.js.map",
+    "static/js/2.2e29ec6a.chunk.js": "/ayindesegun.github.io/quiz-app/static/js/2.2e29ec6a.chunk.js",
+    "static/js/2.2e29ec6a.chunk.js.map": "/ayindesegun.github.io/quiz-app/static/js/2.2e29ec6a.chunk.js.map",
+    "index.html": "/ayindesegun.github.io/quiz-app/index.html",
+    "precache-manifest.a23480a13cf9a1bbae7fffb69c313a29.js": "/ayindesegun.github.io/quiz-app/precache-manifest.a23480a13cf9a1bbae7fffb69c313a29.js",
+    "service-worker.js": "/ayindesegun.github.io/quiz-app/service-worker.js",
+    "static/css/main.eb2c7530.chunk.css.map": "/ayindesegun.github.io/quiz-app/static/css/main.eb2c7530.chunk.css.map",
+    "static/js/2.2e29ec6a.chunk.js.LICENSE.txt": "/ayindesegun.github.io/quiz-app/static/js/2.2e29ec6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20044e02.js",
+    "static/js/2.2e29ec6a.chunk.js",
+    "static/css/main.eb2c7530.chunk.css",
+    "static/js/main.79c509df.chunk.js"
+  ]
+}
